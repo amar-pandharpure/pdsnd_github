@@ -8,7 +8,7 @@ Description
 Project includes command line tool to explore and analyse the bike share data for different cities.
 
 Files used
-Pandas, Numpy and Calender
+Pandas, Numpy and Calender modules
 
 Credits
 https://www.w3schools.com/python/python_arrays.asp
