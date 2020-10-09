@@ -1,15 +1,16 @@
-### Date created
-Include the date you created this project and README file.
+Date created
+9 Oct 2020
 
-### Project Title
-Replace the Project Title
+Project Title
+Explore Bike-Share Data using Python
 
-### Description
-Describe what your project is about and what it does
+Description
+Project includes command line tool to explore and analyse the bike share data for different cities.
 
-### Files used
-Include the files used
+Files used
+Pandas, Numpy and Calender
 
-### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
+Credits
+https://www.w3schools.com/python/python_arrays.asp
+https://www.geeksforgeeks.org/python-statistics-mode-function/
+https://stackoverflow.com/questions/17651384/python-remove-division-decimal/17651389
