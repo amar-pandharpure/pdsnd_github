@@ -14,7 +14,6 @@ DAYS=['all','monday','tuesday','wednesday','thursday','friday','saturday','sunda
 def get_filters():
     """
     Asks user to specify a city, month, and day to analyze.
-
     Returns:
         (str) city - name of the city to analyze
         (str) month - name of the month to filter by, or "all" to apply no month filter
@@ -36,6 +35,7 @@ def get_filters():
             break
         else:
             print("Incorrect month name! Please enter correct month name.")
+            
     # get user input for day of week (all, monday, tuesday, ... sunday)
     while True:
         day=input("Please enter day you like to analyze (" + ",".join(DAYS)+" )?\n").lower()
