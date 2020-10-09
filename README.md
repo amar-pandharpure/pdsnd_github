@@ -1,4 +1,5 @@
 Date created
+
 9 Oct 2020
 
 Project Title
@@ -8,7 +9,7 @@ Description
 Project includes command line tool to explore and analyse the bike share data for different cities.
 
 Files used
-Pandas, Numpy and Calender
+Pandas, Numpy and Calender modules
 
 
 
